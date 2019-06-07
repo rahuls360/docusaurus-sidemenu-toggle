@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Docusaurus": ["doc1", "doc4"],
+    "First Category": ["doc2", "doc5"],
+    "Second Category": ["doc3"]
+  }
+}
